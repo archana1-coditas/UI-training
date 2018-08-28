@@ -1,17 +1,23 @@
 
-.log{
-     text-align:center;
-     color:(255,50,70);
-    }
 
-.headc{
-     border:2px solid green;
-     background-color:linen;
-     padding:4px;
-     margin:200px
-   }
-     
-     
+    .log1{
+    	border:1px solid gray;
+     width:400px;
+    margin: auto;
+    text-align:center;
+     color: white;
+     font-size: 40px;
+     font-weight: bold;
+     background-color: blue;
+
+     }
+
+     .log2{
+     	border:1px solid gray;
+     	width:400px;
+    margin: auto;
+    text-align:center;
+     }
 
 p{
 color:blue;
