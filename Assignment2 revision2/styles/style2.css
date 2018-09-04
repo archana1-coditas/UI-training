@@ -15,10 +15,10 @@ body{
 .header{
 	
     background-color: #17a2d4;
-}
+  }
 
 .header .sports{
-	margin:15px 20px 25px 20px;
+	margin:23px 20px 25px 20px;
 	font-family: Lato;
     color:  #f4f4f4;
     font-size: 30px;/* Approximation due to font substitution */
@@ -45,20 +45,20 @@ body{
    }
 
 .content{
-	background-color:  #f6f6f6;
-  padding:200 450;
-    }
+	     background-color:  #f6f6f6;
+       padding:20px;
+      }
 
  .content .box{
-  padding: 20px; 
+  margin:100px auto;
  	border-radius: 3px;
     background-color:  #ffffff;
     box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.12);
     width: 460px;
-    height: 220px;
+    padding:17px 20px 18px 20px;
    }
 
- .recover{
+ .content .recover{
 
 	font-family: Lato;
    color:  #000000;
@@ -69,7 +69,7 @@ body{
 
 
 
- input{  
+ .content input{  
    font-family: Lato;
    color:  #969696;
    font-size: 18px;/* Approximation due to font substitution */
@@ -85,7 +85,7 @@ body{
    height: 58px;
 }
 
-.link{
+.content .link{
 	margin-bottom: 10px;
 	font-family: Lato;
     color:  #969696;
@@ -95,7 +95,7 @@ body{
     margin-bottom: 20px;
 }
 
-button{
+.content button{
 
 	border-radius: 3px;
     background-color:  #17a2d4;
