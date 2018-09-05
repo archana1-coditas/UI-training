@@ -1,0 +1,39 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body{
+	
+}
+.wrapper3{
+           background-color:  #f4f4f4;
+         }
+ .head1{
+	background-color: #17a2d4;
+	
+}
+.header{
+
+	width: 1024px;
+	margin: auto;
+}
+.header-name{
+	
+	float: left;
+	font-family: Lato;
+	color:  #f4f4f4;
+	font-size: 24px;/* Approximation due to font substitution */
+	font-weight: 800;
+	text-align: left;
+}
+h2{
+	font-size: 24px;
+}
+.img1{
+	float: right;
+	margin-top: 8px;
+}
+.clear{
+	clear:both;
+}
+        
